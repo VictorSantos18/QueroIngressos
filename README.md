@@ -1,7 +1,7 @@
 ## Como fazer a aplicação rodar ##
 
 Tendo a ferramenta Git e NodeJS instalados em seu computador:
-- Abra o Prompt de Comando no caminho de um novo diretório e copie o seguinte comando para clonar o nosso repositório:
+- Abra o Prompt de Comando no caminho de um novo diretório e copie o seguinte comando para clonar o repositório:
 
 ```
 git clone https://github.com/VictorSantos18/queroingressos.git
