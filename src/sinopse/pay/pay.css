@@ -1,0 +1,60 @@
+.container4 {
+    width: 100%;
+    margin: 30px 0;
+}
+.container4 .header1 {
+    background: rgb(224, 224, 224);
+    height: 30px;
+    display: flex;
+    align-items: center;
+    padding: 0 20px;
+    border-radius: 6px 6px 0 0;
+}
+.container4 .header1 p {
+    font-size: 1.2rem;
+    align-items: center;
+}
+.container4 .content1 {
+    height: 30px;
+    background: rgb(243, 243, 243);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 20px;
+}
+.container4 .content1 a {
+    font-family: 'Roboto', sans-serif;
+    padding: 8px 20px;
+    border-radius: 5px;
+    border: 1px solid #ff8818;
+    color: #ff8818;
+    cursor: pointer;
+}
+.container4 .content1 a:hover{
+    border: 1px solid #fff;
+    background: #ff8818;
+    color: #fff;
+    transition: 0.3s all ease;
+}
+.container4 .content1 select{
+    padding: 5px 0;
+}
+
+.btn1{
+    display: flex;
+    justify-content: flex-end;
+}
+.btn1 a{
+    width: 100px;
+    padding: 8px 20px;
+    border-radius: 5px;
+    border: 1px solid #ff8818;
+    color: #ff8818;
+    cursor: pointer;
+}
+.btn1 a:hover{
+    border: 1px solid #fff;
+    background: #ff8818;
+    color: #fff;
+    transition: 0.3s all ease;
+}
